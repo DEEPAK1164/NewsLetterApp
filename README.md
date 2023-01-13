@@ -1,6 +1,5 @@
 # NewsLetterApp
 This is a Backend Project using Node.js, Express.js and Mailchimp API and its Database.
-![Screenshot (6991)](https://user-images.githubusercontent.com/85310059/212337169-87f27aaa-ec54-4360-9156-f2968cd8550e.png)
 ![Screenshot (6992)](https://user-images.githubusercontent.com/85310059/212337211-814cfd3c-6976-4674-b55e-2e552069f1a3.png)
 ![Screenshot (6993)](https://user-images.githubusercontent.com/85310059/212337222-f3c07721-530a-4876-8417-7f251dbeae4d.png)
 ![Screenshot (6994)](https://user-images.githubusercontent.com/85310059/212337225-50429bf0-6d6b-43a8-9194-d487addfa194.png)
