@@ -1,0 +1,16 @@
+# NewsLetterApp
+This is a Backend Project using Node.js, Express.js and Mailchimp API and its Database.
+![Screenshot (6991)](https://user-images.githubusercontent.com/85310059/212337169-87f27aaa-ec54-4360-9156-f2968cd8550e.png)
+![Screenshot (6992)](https://user-images.githubusercontent.com/85310059/212337211-814cfd3c-6976-4674-b55e-2e552069f1a3.png)
+![Screenshot (6993)](https://user-images.githubusercontent.com/85310059/212337222-f3c07721-530a-4876-8417-7f251dbeae4d.png)
+![Screenshot (6994)](https://user-images.githubusercontent.com/85310059/212337225-50429bf0-6d6b-43a8-9194-d487addfa194.png)
+![Screenshot (6995)](https://user-images.githubusercontent.com/85310059/212337240-5990b891-aec3-469c-840c-f0a21df9f737.png)
+![Screenshot (6996)](https://user-images.githubusercontent.com/85310059/212337246-b15395ff-1231-4677-a3e7-d03d232da893.png)
+![Screenshot (6997)](https://user-images.githubusercontent.com/85310059/212337249-499812c9-2568-4187-b84f-d4ebd7cc2490.png)
+![Screenshot (6999)](https://user-images.githubusercontent.com/85310059/212337255-a6f4ac5d-defb-4fa7-a86e-51d170df44d2.png)
+![Screenshot (7000)](https://user-images.githubusercontent.com/85310059/212337262-3f9f05a8-fc80-4067-916b-a459a166c082.png)
+![Screenshot (7003)](https://user-images.githubusercontent.com/85310059/212337269-ac81cc57-a816-4fee-8340-9c5814d2761e.png)
+![Screenshot (7005)](https://user-images.githubusercontent.com/85310059/212337275-419dff6e-0026-40eb-909e-4772ae577a41.png)
+![Screenshot (7006)](https://user-images.githubusercontent.com/85310059/212337278-313898a6-3868-4e8d-a68d-0cf97c34bba9.png)
+![Screenshot (7008)](https://user-images.githubusercontent.com/85310059/212337285-e5c08124-4fed-4988-9566-f48265be15fc.png)
+![Screenshot (7009)](https://user-images.githubusercontent.com/85310059/212337291-1b7bf804-4c0b-4d9c-9c3b-89396e8a60c0.png)
