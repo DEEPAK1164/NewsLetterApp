@@ -10,10 +10,7 @@ app.use(bodyParser.urlencoded({extended:true}));
 app.get("/",function(req,res){
     res.sendFile(__dirname+"/signup.html");
 });
-//key
-//c5069c6fae24d325dd8e735d224bcd4d-us8
-//unique id
-//4dfd6a4076
+
 app.post("/",function(req,res)
 {
     const firstName=req.body.fName;
@@ -33,7 +30,7 @@ app.post("/",function(req,res)
      const url="https://us8.api.mailchimp.com/3.0/lists/4dfd6a4076/members"
     const options={
         method:"POST",
-        auth:"deepak:c5069c6fae24d325dd8e735d224bcd4d-us8"
+        auth:"{MYAPIKEY}"
     }
     const request=https.request(url,options,function(response){
 if(response.statusCode===200)
